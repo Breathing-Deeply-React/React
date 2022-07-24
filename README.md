@@ -10,12 +10,12 @@
         <td align="center" width="130px">
             <a href="kiki932314@gmail.com"><img height="100px" width="100px" src=""/></a>
             <br />
-            <a href="https://github.com/chasonghui">송희면</a>
+            <a href="kiki932314@gmail.com">송희면</a>
         </td>
         <td align="center" width="130px">
             <a href="yeonj99@naver.com"><img height="100px" width="100px" src=""/></a>
             <br />
-            <a href="https://github.com/cornsilk-tea">임연주</a>
+            <a href="yeonj99@naver.com">임연주</a>
         </td>
     </tr>
 </table>
